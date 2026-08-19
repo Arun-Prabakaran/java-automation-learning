@@ -1,4 +1,11 @@
-# Java Automation Learning
+## Branching Workflow
+
+- Stable code is maintained in the `main` branch
+- New work is developed in a feature branch
+- Day 1 documentation was developed in `feature/day1-readme`
+- Changes are pushed to GitHub
+- A Pull Request is created for review
+- Reviewed changes are merged into `main`# Java Automation Learning
 
 This repository contains my hands-on learning and practice for Java and QA Automation.
 
