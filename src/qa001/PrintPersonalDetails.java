@@ -1,4 +1,4 @@
-package day1.work;
+package qa001;
 
 public class PrintPersonalDetails {
 	public static void main(String[] args) {
